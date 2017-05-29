@@ -12,7 +12,7 @@ Our current list of topic papers:
    * [Blockcerts and Open Badges Signature Alignment](BlockcertsAlignment.md) by Kim Hamilton Duffy
    * [Booting a Web of Sovereignty with a Decentralized Social App](Booting-a-Web-of-Sovereignty-with-a-Decentralized-Social-App.md) by Adam Lake
    * [Certificate Chains for DID-based Self-sovereign Identities](certificate_chains_dids.md) by Christian Lundkvist
-   * [Credit-based Reputations for Identity Management with Blockchain and Flow Networks](Credit-based-Reputations-for-Identity-Management.md) by Tobias Mayer, Obar Hasan, and Lionel Brunie
+   * [Credit-based Reputations for Identity Management with Blockchain and Flow Networks](Credit-based-Reputations-for-Identity-Management.md) by Tobias Mayer, Omar Hasan, and Lionel Brunie
    * [DID Auth](did-auth.md) by James Monaghan
    * [The DID Family of Specifications](did-family-of-specifications.md) by Drummond Reed
    * [DID Method Specifications / BTCR and PGPR](did-methods-btcr-pgpr.md) by Ryan Grant
